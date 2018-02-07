@@ -4,7 +4,7 @@
     <property name="created">2018-02-07T11:50:10</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-02-07T13:40:07</property>
+    <property name="modified">2018-02-07T14:16:09</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="28" />
@@ -25,12 +25,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="16a5ba" />
+        <option name="FOREGROUND" value="16d2e7" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="147173" />
+        <option name="FOREGROUND" value="b546" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -52,7 +52,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="36d28a" />
+        <option name="FOREGROUND" value="5e8a4" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -93,12 +93,12 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="2d6757" />
+        <option name="FOREGROUND" value="22ba97" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="146c7f" />
+        <option name="FOREGROUND" value="499ff" />
       </value>
     </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
@@ -114,7 +114,7 @@
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="22ba97" />
+        <option name="FOREGROUND" value="faef" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
