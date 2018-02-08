@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy 1" parent="Visual Studio">
+  <action id="BuildSolutionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+</keymap>
