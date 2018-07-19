@@ -4,6 +4,7 @@
       <template name="TSX Component.tsx" reformat="true" live-template-enabled="true" />
       <template name="TSX Component wStyles.tsx" reformat="true" live-template-enabled="true" />
       <template name="TSX SFC.tsx" reformat="true" live-template-enabled="true" />
+      <template name="TSX SFC wStyled.tsx" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
