@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,8 +17,8 @@
     <mask>*.ts</mask>
     <mask>*Script*</mask>
     <mask>*.c</mask>
-    <mask>*.cs</mask>
-    <mask>*.sql</mask>
     <mask>*.tsx</mask>
+    <mask>*.sql</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
