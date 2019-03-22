@@ -20,5 +20,6 @@
     <mask>*.sql</mask>
     <mask>*.cs</mask>
     <mask>*Controller.cs</mask>
+    <mask>*Routes.cs</mask>
   </component>
 </application>
