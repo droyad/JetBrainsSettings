@@ -10,7 +10,7 @@
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="sshCredentials">
-            <option value="&lt;credentials HOST=&quot;52.151.35.188&quot; PORT=&quot;22&quot; USERNAME=&quot;octoadmin&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
+            <option value="&lt;credentials HOST=&quot;51.141.166.239&quot; PORT=&quot;22&quot; USERNAME=&quot;octoadmin&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
           <option name="remappedSourceLocationsMap">
             <map />
