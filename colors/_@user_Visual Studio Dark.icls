@@ -4,7 +4,7 @@
     <property name="created">2018-02-07T11:50:10</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-08-05T13:37:20</property>
+    <property name="modified">2019-09-09T15:46:03</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -105,6 +105,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="1a001d" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="eb007b" />
       </value>
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
