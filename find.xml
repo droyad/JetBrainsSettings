@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Octopus.E2ETests.API'" />
+    <option name="defaultScopeName" value="Project 'Octopus.E2ETests.API'" />
+    <option name="SEARCH_SCOPE" value="Project 'Octopus.E2ETests.API'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
