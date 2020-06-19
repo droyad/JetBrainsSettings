@@ -24,5 +24,6 @@
     <mask>*Controller.cs</mask>
     <mask>*Routes.cs</mask>
     <mask>*Command.cs</mask>
+    <mask>*Resource.cs</mask>
   </component>
 </application>
