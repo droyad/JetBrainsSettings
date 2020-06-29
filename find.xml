@@ -23,5 +23,6 @@
     <mask>*Routes.cs</mask>
     <mask>*Command.cs</mask>
     <mask>*Resource.cs</mask>
+    <mask>*Rule.cs*</mask>
   </component>
 </application>
