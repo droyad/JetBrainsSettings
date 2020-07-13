@@ -27,5 +27,6 @@
     <mask>*Resource.cs</mask>
     <mask>*Rule.cs*</mask>
     <mask>*.ruleset</mask>
+    <mask>script*.*</mask>
   </component>
 </application>
