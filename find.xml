@@ -23,10 +23,10 @@
     <mask>*Controller.cs</mask>
     <mask>*Routes.cs</mask>
     <mask>*Command.cs</mask>
-    <mask>*Resource.cs</mask>
     <mask>*Rule.cs*</mask>
     <mask>*.ruleset</mask>
     <mask>script*.*</mask>
     <mask>*.cs</mask>
+    <mask>*Resource.cs</mask>
   </component>
 </application>
