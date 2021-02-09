@@ -1,0 +1,19 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-12-06T14:32:53</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-12-06T14:55:42</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_changelistConflict" value="" />
+  </colors>
+</scheme>
