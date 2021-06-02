@@ -2,12 +2,25 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="valueLookupDelay" value="150" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="automaticallyRefreshWatches" value="true" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+          <option name="showCompilerGeneratedMembers" value="true" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>

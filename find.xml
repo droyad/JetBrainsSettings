@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.ts*</mask>
+    <mask>*.ts</mask>
+    <mask>*Script*</mask>
+    <mask>*.c</mask>
+    <mask>*.tsx</mask>
+    <mask>*.sql</mask>
+    <mask>*Controller.cs</mask>
+    <mask>*Routes.cs</mask>
+    <mask>*Command.cs</mask>
+    <mask>*Rule.cs*</mask>
+    <mask>*.ruleset</mask>
+    <mask>script*.*</mask>
+    <mask>*.cs</mask>
+    <mask>*Resource.cs</mask>
+    <mask>*.cshtml</mask>
+  </component>
+</application>
