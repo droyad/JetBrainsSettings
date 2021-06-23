@@ -11,7 +11,6 @@
           <option name="automaticallyRefreshWatches" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="processExceptionsOutsideMyCode" value="true" />
-          <option name="showCompilerGeneratedMembers" value="true" />
         </configuration>
       </debugger>
       <debugger id="javascript">
